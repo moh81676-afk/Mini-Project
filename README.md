@@ -52,5 +52,5 @@ Power BI Desktop · Power Query · DAX · Data modelling · Data visualization
 Download `Mini-Project_3.pbix` and open it with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
 
 ## Author
-**Mohamed Ali Shibl Zaho** – Junior Data Analyst
-[LinkedIn](https://linkedin.com/in/mohamedali-zaho) · mohammed.ali.shabl1@gmail.com
+**Mohamed Ali** – Junior Data Analyst
+[LinkedIn](https://linkedin.com/in/mohamedali-zaho) 
